@@ -1,1 +1,6 @@
 # Started 
+## MakeFile with 
+```
+   $ make 
+
+```   
